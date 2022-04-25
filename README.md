@@ -15,5 +15,6 @@ With an accuracy of 81%, I was able to predicted the status of the project using
 
 Final Thoughts:
 If crowdfunding is successful in initial stages of project then I can give a great push in the project growth. So these predictions are very helpful to the people who want to convert their imagination into reality with the use of crowdfunding. 
-
-Already Build Models:https://drive.google.com/drive/folders/1OZ5kfZoK_At7OxKYcsJLJTk4k772liRe?usp=sharing
+<hr>
+<strong>Already Build Models:</strong>https://drive.google.com/drive/folders/1OZ5kfZoK_At7OxKYcsJLJTk4k772liRe?usp=sharing
+<hr>
